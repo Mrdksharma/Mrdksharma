@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar </h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrdksharma&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldas-404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrdksharma&label=Profile%20views&color=0e75b6&style=flat" alt="Mrdksharma" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuldas-404" alt="rahuldas-404" /></a> </p>
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/rahul-kumar-das-52501a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-das-52501a229/" height="30" width="40" /></a> -->
-<a href="https://instagram.com/__mr.sharma_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatguyonhisway" height="30" width="40" /></a>
+<a href="https://instagram.com/__mr.sharma_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mrdksharma" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@rd893918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rd893918" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/nudnik_junkie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nudnik_junkie" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/rahul_kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_kd" height="30" width="40" /></a>
@@ -35,13 +35,13 @@
 
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuldas-404&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Rahul's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrdksharma&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Rahul's Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldas-404&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdksharma&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
 <br />
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldas-404&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrdksharma&theme=algolia" alt="candida18"  /></p>
